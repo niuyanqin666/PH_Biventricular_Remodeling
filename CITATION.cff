@@ -1,0 +1,52 @@
+cff-version: 1.2.0
+message: "If you use this repository, please cite it as below."
+title: "A ventricle-wide remodeling signature in pulmonary hypertension: cross-species, cross-model integration of bulk omics"
+version: "v1.0.0"
+authors:
+  - family-names: Niu
+    given-names: Yanqin
+    orcid: "https://orcid.org/0009-0001-4277-5600"
+    affiliation: "College of Life Sciences and Oceanography, Shenzhen University, Shenzhen, Guangdong, China"
+    email: "niuyq@szu.edu.cn"
+  - family-names: Li
+    given-names: Shuyi
+    affiliation: "College of Life Sciences and Oceanography, Shenzhen University, Shenzhen, Guangdong, China"
+  - family-names: Zhang
+    given-names: Siqi
+    affiliation: "College of Life Sciences and Oceanography, Shenzhen University, Shenzhen, Guangdong, China"
+  - family-names: Wang
+    given-names: Jun
+    affiliation: "College of Life Sciences and Oceanography, Shenzhen University, Shenzhen, Guangdong, China"
+  - family-names: Gou
+    given-names: Deming
+    orcid: "https://orcid.org/0000-0002-3312-841X"
+    affiliation: "College of Life Sciences and Oceanography, Shenzhen University, Shenzhen, Guangdong, China"
+    email: "dmgou@szu.edu.cn"
+    roles: ["corresponding-author"]
+keywords:
+  - pulmonary hypertension
+  - biventricular remodeling
+  - extracellular matrix
+  - immune pathways
+  - RNA-seq
+  - proteomics
+  - cross-omics
+license: "MIT"
+repository-code: "https://github.com/niuyanqin666/PH_Biventricular_Remodeling"
+preferred-citation:
+  type: article
+  title: "A ventricle-wide remodeling signature in pulmonary hypertension: cross-species, cross-model integration of bulk omics"
+  authors:
+    - family-names: Niu
+      given-names: Yanqin
+    - family-names: Li
+      given-names: Shuyi
+    - family-names: Zhang
+      given-names: Siqi
+    - family-names: Wang
+      given-names: Jun
+    - family-names: Gou
+      given-names: Deming
+  journal: "eBioMedicine"
+  year: 2025
+  notes: "submitted"
